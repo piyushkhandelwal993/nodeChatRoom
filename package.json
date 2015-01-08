@@ -1,0 +1,15 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "my chatroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "piyush khandelwal",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^1.2.11",
+    "socket.io": "^1.2.1"
+  }
+}
